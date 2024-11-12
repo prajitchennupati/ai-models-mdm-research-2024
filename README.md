@@ -5,8 +5,8 @@ Part of a research paper organized by Prajit Chennupati &amp; Shlok Singh.
 ## ATTACHMENTS
 - Traditional Code For Formatting Data (traditional.py)
 - 'AI Model' Directory
--   Contains Trained AI Model
--   Contains Training Data In CSV File Format
+  - Contains Trained AI Model
+  - Contains Training Data In CSV File Format
 
 ## CREDITS
 - Prajit Chennupati
